@@ -1,0 +1,29 @@
+.num-block{
+  
+    padding: 100px;
+}
+.num-block input{
+    width: 300px;
+    text-align: center;
+}
+.calculate-btn button{
+    width: 190px;
+    position: relative;
+    left:9%;
+
+}
+.result-num{
+    padding: 100px;
+}
+.result-num input{
+    width: 300px;
+    position: relative;
+    left: 32%;
+    border: 1px solid black;
+    text-align: center;
+}
+.refresh-logo{
+    position: absolute;
+    left: 56%;
+    cursor: pointer;
+}
